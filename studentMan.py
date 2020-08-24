@@ -1,5 +1,5 @@
 
-say=2 #Telebe sayinin daxil edilmesi
+say=10 #Telebe sayinin daxil edilmesi
 # say = input("sayi daxil et :")
 say=int(say)
 
